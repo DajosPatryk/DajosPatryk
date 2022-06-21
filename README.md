@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DajosPatryk
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning GPT-3 AI technology. 
+- 📫 How to reach me: Patryk00.Business@gmail.com
