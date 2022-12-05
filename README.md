@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @DajosPatryk
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning Machine-Learning & doing my Bachelors Degree.
-- 📫 How to reach me: Patryk00.Business@gmail.com
+- 👀 I’m interested in media design & machine learning.
+- 🌱 I’m currently doing my Bachelors Degree and learning lots about code.
+- 📫 Business: Patryk.Dajos@Avalonia.space
+- 📫 Personal: Patryk00.Business@gmail.com
+- 🌎 Website: Avalonia.space
