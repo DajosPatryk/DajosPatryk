@@ -4,11 +4,11 @@
 
 **Business**
 - 📫 Patryk.Dajos@Avalonia.space
-- 🌎 https://Avalonia.space
+- 🌎 Inquiries: https://Avalonia.space
 
 **Personal**
 - 📫 Patryk00.Business@gmail.com
-- 🎨 Portfolio: https://Avalonia.space
+- 🌎 Portfolio: https://Avalonia.space
 
 ## Running Projects
 - 🎮 ESO-Stats: https://eso-stats.pro
