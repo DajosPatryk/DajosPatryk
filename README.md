@@ -1,14 +1,17 @@
-## 👋 Hi, I’m @DajosPatryk
-- 👀 I’m interested in design & machine learning.
-- 🌱 I’m currently doing my Bachelors Degree and running my own show @ AVALONIA.
+# Hi, I'm Patryk Dajos
+I am a software developer from Vienna.<br/>
+Interested in Cryptography, Artificial Intelligence, Design and Web3.<br/>
+Love growing my own fruits 🍊 Running my own show @ AVALONIA🔺<br/>
 
-**Business**
 - 📫 Patryk.Dajos@Avalonia.space
-- 🌎 Inquiries: https://Avalonia.space
-
-**Personal**
-- 📫 Patryk00.Business@gmail.com
-- 🌎 Portfolio: https://Avalonia.space
+- 🌎 https://Avalonia.space
+<br/>
+<img src="https://i.imgur.com/Dlxh5g2.png" width="300" /><br/>
 
 ## Running Projects
-- 🎮 ESO-Stats: https://eso-stats.pro
+- 🎮 ESO-Stats https://eso-stats.pro/landing
+- 💛 Encouraging Academy https://encouraging.academy
+
+## Public Repositories
+- ✏️ Example Restful-API with NodeJS https://github.com/DajosPatryk/example_restfulapi_nodejs
+- ⭐ 1:1 Google Review Card in VueJS https://github.com/DajosPatryk/Google_Review_Card
