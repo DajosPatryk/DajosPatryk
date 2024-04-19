@@ -11,4 +11,3 @@ Love growing my own fruits 🍊 Running my own show @ AVALONIA🔺<br/>
 ## Running Projects
 - 🔺 Avalonia https://Avalonia.space
 - 🎮 ESO-Stats https://eso-stats.pro/landing
-- 💛 Encouraging Academy https://encouraging.academy
