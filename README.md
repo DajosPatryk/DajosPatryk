@@ -2,6 +2,8 @@
 
 ![Languages](/metrics.plugin.languages.svg)
 
+![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
+
 # Hi, I'm Patryk Dajos
 I am a software developer from Vienna.<br/>
 Interested in Cryptography, Artificial Intelligence, Design and Web3.<br/>
