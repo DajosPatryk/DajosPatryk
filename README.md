@@ -2,9 +2,11 @@
 <div>
     <img align="left" src="/github-metrics.svg"/>
     <div align="left">
-        <h6>Software Developer from Vienna, Austria</h6>
+        <h6>
+            Software Developer from Vienna, Austria<br/>
+            Web-development - AI development
+        </h6>
         </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
-        <span>Web-development - AI development</span>
         <h6>
             🌎 <a href="https://avalonia.space">avalonia.space</a><br/>
             💌 patryk.dajos@avalonia.space
