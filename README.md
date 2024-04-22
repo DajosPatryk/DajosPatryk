@@ -2,45 +2,70 @@
 <div>
     <img align="left" src="/github-metrics.svg"/>
     <div align="left">
-        <h6>Software Developer from Vienna<br/></h6>
-        </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span>
+        <h6>Software Developer from Vienna, Austria</h6>
+        </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
+        <span>Web-development - AI development</span>
         <h6>
-            🌎 https://avalonia.space<br/>
+            🌎 <a href="https://avalonia.space">avalonia.space</a><br/>
             💌 patryk.dajos@avalonia.space
         </h6><br/><br/><br/><br/>
     </div>
 </div>
             
-<br/>
+<br/><br/>
 
-<div align="left">
-    <img src="/metrics.plugin.achievements.compact.svg"/>
+<div>
+    <img align="left" src="/metrics.plugin.achievements.compact.svg"/>
+    <img src="/metrics.plugin.isocalendar.svg"/>
 </div>
 
-## Mastered Languages & Technologies
+<br/>
 
-![Languages](/metrics.plugin.languages.svg)
+## Mastered Technologies
+<div align="left">
+    <div>
+        <h5>Programming Languages</h5>
+        <span>
+            <img height="32px" src="/icons/js/js.svg"/> <img height="32px" src="/icons/ts/ts.svg"/> <img height="32px" src="/icons/php/php.svg"/> <img height="32px" src="/icons/sass/sass.png"/> <img height="38px" src="/icons/java/java.svg"/>
+        </span>
+    </div>
+    <div>
+        <h5>Development Tools</h5>
+        <span>
+            <img height="28px" src="/icons/vuejs/vuejs.svg"/> <img height="32px" src="/icons/reactjs/reactjs.svg"/> <img height="32px" src="/icons/nodejs/nodejs.svg"/> <img height="32px" src="/icons/symfony.svg"/> <img height="28px" src="/icons/tailwind/tailwind.svg"/> <img height="32px" src="/icons/mongodb/mongodb.svg"/> <img height="32px" src="/icons/postgresql/postgresql.svg"/> 
+            <img height="32px" src="/icons/redis/redis.svg"/> <img height="32px" src="/icons/prisma.svg"/>
+        </span>
+    </div>
+    <div>
+        <h5>Infrastructure Tools & API's</h5>
+        <span>
+            <img height="32px" src="/icons/docker/docker.webp"/> <img height="32px" src="/icons/stripe/stripe.jpeg"/> <img height="26px" src="/icons/meta/meta.svg"/> <img height="32px" src="/icons/openai.svg"/>
+        </span>
+    </div>
+</div>
+<br/>
 
-![Calendar](/metrics.plugin.isocalendar.svg)
-
-
-
-
-
+<img src="/metrics.plugin.languages.svg"/>
 
 <br/>
-<img src="https://i.imgur.com/Dlxh5g2.png" width="300" /><br/>
 
 ## Running Projects
 
 <div>
-    <h4><img width="32px" src="/avalonia_icon.png"/> Avalonia</h4>
+    <h4><img width="32px" src="/avalonia_icon.png"/>ㅤAvalonia</h4>
     <h6>Software agency & SaaS provider <a href="https://avalonia.space">To website</a></h6>
 </div>
 
 <div>
-    <h4><img width="32px" src="/eso-stats.png"/> ESO-Stats</h4>
-    <h6>Self-sutaining game-wiki App <a href="https://eso-stats.pro">To website</a></h6>
+    <h4><img width="32px" src="/eso-stats.png"/>ㅤESO-Stats</h4>
+    <h6>Self-sutaining game-wiki app <a href="https://eso-stats.pro">To website</a></h6>
 </div>
 
-## Maintained Projects
+<br/>
+
+## Long-term Maintained Projects
+
+<div>
+    <h4><img width="32px" src="/immobilien-makler-akademie.svg"/>ㅤImmobilien Makler Akademie</h4>
+    <h6>Digital academy for real-estate agents <a href="https://immobilien-makler-akademie.com">To website</a></h6>
+</div>
