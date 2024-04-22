@@ -6,7 +6,7 @@
 
 ![Achievements](/metrics.plugin.achievements.compact.svg)
 
-# Hi, I'm Patryk Dajos
+# Hey Grüße 안녕
 I am a software developer from Vienna.<br/>
 Interested in Cryptography, Artificial Intelligence, Design and Web3.<br/>
 Love growing my own fruits 🍊 Running my own show @ AVALONIA🔺<br/>
