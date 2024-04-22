@@ -4,7 +4,7 @@
     <div align="left">
         <h6>
             Software Developer from Vienna, Austria<br/>
-            Web-development - AI development
+            Web-development - AI development - SaaS
         </h6>
         </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
         <h6>
