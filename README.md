@@ -4,6 +4,8 @@
 
 ![Calendar](/metrics.plugin.isocalendar.svg)
 
+![Achievements](/metrics.plugin.achievements.compact.svg)
+
 # Hi, I'm Patryk Dajos
 I am a software developer from Vienna.<br/>
 Interested in Cryptography, Artificial Intelligence, Design and Web3.<br/>
