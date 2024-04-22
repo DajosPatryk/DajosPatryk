@@ -19,6 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: activity, repositories, community
           
       - name: Metrics languages
         uses: lowlighter/metrics@latest
