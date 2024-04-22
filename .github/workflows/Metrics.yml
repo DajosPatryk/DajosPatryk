@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_colors: Java:#f88909
+          plugin_languages_colors: java:#f88909
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
