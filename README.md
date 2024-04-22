@@ -1,3 +1,9 @@
+# Hey! Grüße! Cześć! 안녕! 你好!
+<div>
+    <span>I'm a software engineer from Vienna<br/></span>
+    <span>Builder & an Artist at heart. Running my own show at Avalonia</span> <img width="24px" src="/avalonia_icon.png"/>
+</div>
+
 ![Metrics](/github-metrics.svg)
 
 ![Languages](/metrics.plugin.languages.svg)
@@ -6,10 +12,7 @@
 
 ![Achievements](/metrics.plugin.achievements.compact.svg)
 
-# Hey! Grüße! Cześć! 안녕!
-I am a software developer from Vienna.<br/>
-Interested in Cryptography, Artificial Intelligence, Design and Web3.<br/>
-Love growing my own fruits 🍊 Running my own show @ AVALONIA🔺<br/>
+
 
 - 📫 Patryk.Dajos@Avalonia.space
 - 🌎 https://Avalonia.space
@@ -17,5 +20,7 @@ Love growing my own fruits 🍊 Running my own show @ AVALONIA🔺<br/>
 <img src="https://i.imgur.com/Dlxh5g2.png" width="300" /><br/>
 
 ## Running Projects
-- 🔺 Avalonia https://Avalonia.space
+- <span><img width="48px" src="/avalonia_icon.png"/> <a href="https://Avalonia.space">Avalonia</a></span>
 - 🎮 ESO-Stats https://eso-stats.pro/landing
+
+## Maintained Projects
