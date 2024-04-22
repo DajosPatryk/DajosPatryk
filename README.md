@@ -1,5 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
+![Languages](/metrics.plugin.languages.svg)
 
 # Hi, I'm Patryk Dajos
 I am a software developer from Vienna.<br/>
