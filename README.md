@@ -39,7 +39,7 @@
         </span>
     </div>
     <div>
-        <h5>Infrastructure Tools & API's</h5>
+        <h5>Infrastructure Tools, Technologies & API's</h5>
         <span>
             <img height="32px" src="/icons/docker/docker.webp"/> <img height="32px" src="/icons/stripe/stripe.jpeg"/> <img height="26px" src="/icons/meta/meta.svg"/> <img height="32px" src="/icons/openai.svg"/>
         </span>
