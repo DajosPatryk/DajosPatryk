@@ -17,7 +17,7 @@
 <br/><br/>
 
 <div>
-    <img align="left" src="/metrics.plugin.achievements.compact.svg"/>
+    <img align="left" src="/metrics.plugin.achievements.compact.svg"/><br/>
     <img src="/metrics.plugin.isocalendar.svg"/>
 </div>
 
@@ -54,12 +54,12 @@
 ## Running Projects
 
 <div>
-    <h4><img width="32px" src="/avalonia_icon.png"/>ㅤAvalonia</h4>
+    <h4><img width="32px" src="/avalonia_icon.png"/>ㅤ Avalonia</h4>
     <h6>Software agency & SaaS provider <a href="https://avalonia.space">To website</a></h6>
 </div>
 
 <div>
-    <h4><img width="32px" src="/eso-stats.png"/>ㅤESO-Stats</h4>
+    <h4><img width="32px" src="/eso-stats.png"/>ㅤ ESO-Stats</h4>
     <h6>Self-sutaining game-wiki app <a href="https://eso-stats.pro">To website</a></h6>
 </div>
 
@@ -68,6 +68,6 @@
 ## Long-term Maintained Projects
 
 <div>
-    <h4><img width="32px" src="/immobilien-makler-akademie.svg"/>ㅤImmobilien Makler Akademie</h4>
+    <h4><img width="32px" src="/immobilien-makler-akademie.svg"/>ㅤ Immobilien Makler Akademie</h4>
     <h6>Digital academy for real-estate agents <a href="https://immobilien-makler-akademie.com">To website</a></h6>
 </div>
