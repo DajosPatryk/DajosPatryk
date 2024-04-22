@@ -2,7 +2,7 @@
 
 ![Languages](/metrics.plugin.languages.svg)
 
-![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
+![Calendar](/metrics.plugin.isocalendar.svg)
 
 # Hi, I'm Patryk Dajos
 I am a software developer from Vienna.<br/>
