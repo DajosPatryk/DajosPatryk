@@ -8,8 +8,8 @@
         </h6>
         </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
         <h6>
-            🌎 <a href="https://patricius.dev">patricius.dev</a><br/>
-            🌎 <a href="https://avalonia.space">avalonia.space</a><br/>
+            🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
+            🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
             💌 patryk.dajos@avalonia.space
         </h6><br/><br/><br/><br/>
     </div>
