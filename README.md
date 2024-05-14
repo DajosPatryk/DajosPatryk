@@ -55,7 +55,7 @@
 ## Running Projects
 
 <div>
-    <h4><img width="32px" src="/patriciusdev.png"/>ㅤ Patricius.dev</h4>
+    <h4><img width="32px" src="/icons/patriciusdev.png"/>ㅤ Patricius.dev</h4>
     <h6>Personal Portfolio <a href="https://patricius.dev">To website</a></h6>
 </div>
 
