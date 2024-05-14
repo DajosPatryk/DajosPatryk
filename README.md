@@ -55,6 +55,11 @@
 ## Running Projects
 
 <div>
+    <h4><img width="32px" src="/patriciusdev.png"/>ㅤ Patricius.dev</h4>
+    <h6>Personal Portfolio <a href="https://patricius.dev">To website</a></h6>
+</div>
+
+<div>
     <h4><img width="32px" src="/avalonia_icon.png"/>ㅤ Avalonia</h4>
     <h6>Software agency & SaaS provider <a href="https://avalonia.space">To website</a></h6>
 </div>
