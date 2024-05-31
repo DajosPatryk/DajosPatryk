@@ -75,5 +75,5 @@
 
 <div>
     <h4><img width="32px" src="/immobilien-makler-akademie.svg"/>ㅤ Immobilien Makler Akademie</h4>
-    <h6>Digital academy for real-estate agents <a href="https://immobilien-makler-akademie.com">To website</a></h6>
+    <h6>Biggest in german speaking region digital academy for real-estate agents <a href="https://immobilien-makler-akademie.com">To website</a></h6>
 </div>
