@@ -35,7 +35,7 @@
     <div>
         <h5>Development Tools</h5>
         <span>
-            <img height="28px" src="/icons/vuejs/vuejs.svg"/> <img height="32px" src="/icons/reactjs/reactjs.svg"/> <img height="32px" src="/icons/nodejs/nodejs.svg"/> <img height="32px" src="/icons/symfony.svg"/> <img height="28px" src="/icons/tailwind/tailwind.svg"/> <img height="32px" src="/icons/mongodb/mongodb.svg"/> <img height="32px" src="/icons/postgresql/postgresql.svg"/> 
+            <img height="32px" src="/icons/dotnet.png"/> <img height="28px" src="/icons/vuejs/vuejs.svg"/> <img height="32px" src="/icons/reactjs/reactjs.svg"/> <img height="32px" src="/icons/nodejs/nodejs.svg"/> <img height="32px" src="/icons/symfony.svg"/> <img height="28px" src="/icons/tailwind/tailwind.svg"/> <img height="32px" src="/icons/mongodb/mongodb.svg"/> <img height="32px" src="/icons/postgresql/postgresql.svg"/> 
             <img height="32px" src="/icons/redis/redis.svg"/> <img height="32px" src="/icons/prisma.svg"/>
         </span>
     </div>
