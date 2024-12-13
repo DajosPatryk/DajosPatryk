@@ -29,7 +29,7 @@
     <div>
         <h5>Programming Languages</h5>
         <span>
-            <img height="32px" src="/icons/csharp/csharp.svg"/> <img height="32px" src="/icons/js/js.svg"/> <img height="32px" src="/icons/ts/ts.svg"/> <img height="32px" src="/icons/php/php.svg"/> <img height="32px" src="/icons/sass/sass.png"/>
+            <img height="32px" src="/icons/csharp/csharp.svg"/> <img height="32px" src="/icons/js/js.svg"/> <img height="32px" src="/icons/ts/ts.svg"/> <img height="32px" src="/icons/swift/swift.svg"/> <img height="32px" src="/icons/php/php.svg"/> <img height="32px" src="/icons/sass/sass.png"/>
         </span>
     </div>
     <div>
