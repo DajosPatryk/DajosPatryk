@@ -84,6 +84,11 @@
 </div>
 
 <div>
+    <h4><img width="32px" src="/wiresoft.png"/> Wiresoft</h4>
+    <h6>Biggest in german-speaking region family of software license vendors <a href="https://www.wiresoft.com">To website</a></h6>
+</div>
+
+<div>
     <h4><img width="32px" src="/cubee.png"/> ㅤCubee</h4>
     <h6>Vehicle Appraiser in Germany <a href="https://cubee.expert">To website</a></h6>
 </div>
