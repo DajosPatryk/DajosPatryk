@@ -8,8 +8,8 @@
         </h6>
         </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
         <h6>
-            🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
-            🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
+            Portfolio 🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
+            Agency 🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
             💌 patryk.dajos@avalonia.space
         </h6><br/><br/><br/><br/>
     </div>
@@ -52,7 +52,12 @@
 
 <br/>
 
-## Running Projects
+## My Running Projects
+
+<div>
+    <h4><img width="32px" src="/pinpop.png"/> ㅤPinPop</h4>
+    <h6>Offline & Online Messenger App <a href="https://pinpop.app">To website</a></h6>
+</div>
 
 <div>
     <h4><img width="32px" src="/icons/patriciusdev.png"/>ㅤ Patricius.dev</h4>
@@ -71,9 +76,15 @@
 
 <br/>
 
-## Long-term Maintained Projects
+## Team-Led and Maintained Projects
 
 <div>
     <h4><img width="32px" src="/immobilien-makler-akademie.svg"/>ㅤ Immobilien Makler Akademie</h4>
     <h6>Biggest in german-speaking region digital academy for real-estate agents <a href="https://immobilien-makler-akademie.com">To website</a></h6>
 </div>
+
+<div>
+    <h4><img width="32px" src="/cubee.png"/> ㅤCubee</h4>
+    <h6>Vehicle Appraiser in Germany <a href="https://cubee.expert">To website</a></h6>
+</div>
+
