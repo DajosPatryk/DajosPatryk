@@ -90,6 +90,11 @@
 </div>
 
 <div>
+    <h4><img width="32px" src="/gkc.png"/> Goldkontor Cottbus</h4>
+    <h6>WebPage of a precious metals vendor in Germany, optimized to score #1 on Google <a href="https://www.goldkontor-cottbus.de">To website</a></h6>
+</div>
+
+<div>
     <h4><img width="32px" src="/cubee.png"/> ㅤCubee</h4>
     <h6>Vehicle Appraiser in Germany <a href="https://cubee.expert">To website</a></h6>
 </div>
