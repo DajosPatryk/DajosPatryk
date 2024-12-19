@@ -6,7 +6,8 @@
             Software Developer from Vienna, Austria<br/>
             Web-development - App development - SaaS
         </h6>
-        </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
+            </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
+            <span>Senior Frontend Developer @ [Modernice](https://modernice.design)</span>
         <h6>
             Portfolio 🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
             Agency 🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
