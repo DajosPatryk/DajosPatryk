@@ -12,7 +12,6 @@
             Portfolio 🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
             Agency 🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
             PinPop 🌎 <a href="https://www.google.com/url?g=https://pinpop.app" rel="dofollow">pinpop.app</a><br/>
-
             💌 patryk.dajos@avalonia.space
         </h6><br/><br/><br/><br/>
     </div>
