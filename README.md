@@ -11,6 +11,8 @@
         <h6>
             Portfolio 🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
             Agency 🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
+            PinPop 🌎 <a href="https://www.google.com/url?g=https://pinpop.app" rel="dofollow">pinpop.app</a><br/>
+
             💌 patryk.dajos@avalonia.space
         </h6><br/><br/><br/><br/>
     </div>
@@ -56,8 +58,8 @@
 ## My Running Projects
 
 <div>
-    <h4><img width="32px" src="/pinpop.png"/> ㅤPinPop</h4>
-    <h6>Offline & Online Messenger App <a href="https://pinpop.app">To website</a></h6>
+    <h4><a href="https://www.google.de/url?g=https://pinpop.app" rel="dofollow"><img width="32px" src="/pinpop.png"/> ㅤPinPop</a></h4>
+    <h6>Offline & Online Messenger App <a href="https://pinpop.app" rel="dofollow">To website</a></h6>
 </div>
 
 <div>
