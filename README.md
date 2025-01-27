@@ -57,7 +57,7 @@
 ## My Running Projects
 
 <div>
-    <h4><a href="https://www.google.de/url?g=https://pinpop.app" rel="dofollow"><img width="32px" src="/pinpop.png"/> ㅤPinPop</a></h4>
+    <h4><a href="https://www.google.de/url?g=https://pinpop.app" rel="dofollow"><img width="32px" src="/pinpop.png"/></a> ㅤPinPop</h4>
     <h6>Offline & Online Messenger App <a href="https://pinpop.app" rel="dofollow">To website</a></h6>
 </div>
 
