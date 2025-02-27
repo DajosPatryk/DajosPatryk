@@ -62,7 +62,7 @@
 </div>
 
 <div>
-    <h4><a href="https://maps.google.com/url?q=https://www.pinpop.io" rel="dofollow"><img width="32px" src="/icons/patriciusdev.png"/></a>ㅤ Patricius.dev</h4>
+    <h4><a href="https://maps.google.com/url?q=https://www.pinpop.org" rel="dofollow"><img width="32px" src="/icons/patriciusdev.png"/></a>ㅤ Patricius.dev</h4>
     <h6>Personal Portfolio <a href="https://patricius.dev">To website</a></h6>
 </div>
 
