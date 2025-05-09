@@ -17,8 +17,6 @@
         </h6><br/><br/><br/><br/>
     </div>
 </div>
-            
-<br/><br/>
 
 <div>
     <!-- <img align="left" src="/metrics.plugin.achievements.compact.svg"/><br/>-->
