@@ -6,7 +6,7 @@
             Software Developer from Vienna, Austria<br/>
             Web-development - App development - SaaS
         </h6>
-            </span>Builder, Founder & Artist. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
+            </span>Builder & Founder. Running my own show at Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
             <span>Currently working @ <a href="https://www.hyperbound.ai">Hyperbound</a> <a href="https://www.ycombinator.com/companies/hyperbound">YC S23</a></span><br/>
             <span>Senior Developer @ <a href="https://modernice.design">Modernice</a></span>
         <h6>
