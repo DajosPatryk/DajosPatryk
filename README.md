@@ -21,7 +21,7 @@
 <br/><br/>
 
 <div>
-    <img align="left" src="/metrics.plugin.achievements.compact.svg"/><br/>
+    <!-- <img align="left" src="/metrics.plugin.achievements.compact.svg"/><br/>-->
     <img src="/metrics.plugin.isocalendar.svg"/>
 </div>
 
