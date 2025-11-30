@@ -3,11 +3,11 @@
     <img align="left" src="/github-metrics.svg"/>
     <div align="left">
         <h6>
-            Software Developer from Vienna, Austria<br/>
+            Software Developer from San Francisco California<br/>
             Web-development - App development - SaaS
         </h6>
             </span>Builder & Founder. Avalonia <img width="24px" src="/avalonia_icon.png"/><span><br/>
-            <span>Currently working @ <a href="https://www.hyperbound.ai">Hyperbound</a> <a href="https://www.ycombinator.com/companies/hyperbound">YC S23</a></span><br/>
+            <span>Currently Distinguished Founding Engineer @ <a href="https://www.hyperbound.ai">Hyperbound</a> <a href="https://www.ycombinator.com/companies/hyperbound">YC S23</a></span><br/>
         <h6>
             Portfolio 🐉 <a href="https://patricius.dev">patricius.dev</a><br/>
             Agency 🔺 <a href="https://avalonia.space">avalonia.space</a><br/>
