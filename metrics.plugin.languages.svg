@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.61106014423723" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="139.61106014423723" y="0" width="136.16670511192854" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="275.77776525616576" y="0" width="72.11977782747293" height="8" fill="#6b03fc"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.6109926449225" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="139.6109926449225" y="0" width="136.16670511192854" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="275.777697756851" y="0" width="72.11984532678765" height="8" fill="#6b03fc"/>
                     <rect mask="url(#languages-bar)" x="347.89754308363865" y="0" width="65.25907997847065" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="413.1566230621093" y="0" width="46.843376937890646" height="8" fill="#0095d5"/>
                 </svg>
